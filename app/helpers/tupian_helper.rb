@@ -1,0 +1,2 @@
+module TupianHelper
+end

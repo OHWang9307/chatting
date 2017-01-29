@@ -1,0 +1,2 @@
+class TupianController < ApplicationController
+end
